@@ -1,7 +1,8 @@
 class CartsController < ApplicationController
 
   def show
-    @email = session[:user_id]? User.find(session[:user_id]).email : "kvirani@gmail.com"
+    @email = session[:user_id]? User.find(session[:user_id]).email : "daniloencarnacao@gmail.com"
+    @name = session[:user_id]? User.find(session[:user_id]).first_name : "Danilo"
   end
 
   def add_item
