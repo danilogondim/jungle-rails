@@ -1,6 +1,18 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+Jungle is a mini e-commerce application built with Rails 4.2.
+
+This project was developed as part of Lighthouse Labs' Web Development Bootcamp program, and it is focused on learning Rails by example.
+
+Jungle makes use of rspec and capybara for unit and end-to-end testing.
+
+## Final Product
+
+### A
+!["A"](link)
+
+### B
+!["B"](link)
 
 
 ## Setup
