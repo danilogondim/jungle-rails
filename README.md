@@ -8,11 +8,20 @@ Jungle makes use of rspec and capybara for unit and end-to-end testing.
 
 ## Final Product
 
-### A
-!["A"](link)
+### User navigation
+!["User navigation"](https://github.com/danilogondim/jungle-rails/blob/master/docs/navigation.gif?raw=true)
 
-### B
-!["B"](link)
+### Login form
+!["Login form"](https://github.com/danilogondim/jungle-rails/blob/master/docs/login-form.png?raw=true)
+
+### Admin dashboard
+!["Admin dashboard"](https://github.com/danilogondim/jungle-rails/blob/master/docs/admin-dashboard.png?raw=true)
+
+### Admin new product form
+!["Admin new product form"](https://github.com/danilogondim/jungle-rails/blob/master/docs/new-product.png)
+
+### Admin products page
+!["Admin products page"](https://github.com/danilogondim/jungle-rails/blob/master/docs/admin-products.png?raw=true)
 
 
 ## Setup
@@ -25,6 +34,7 @@ Jungle makes use of rspec and capybara for unit and end-to-end testing.
 6. Sign up for a Stripe account
 7. Put Stripe (test) keys into appropriate .env vars
 8. Run `bin/rails s -b 0.0.0.0` to start the server
+9. To access admin pages, use the username and password set as environment variables
 
 ## Stripe Testing
 
